@@ -1,2 +1,2 @@
 # artificial_intelligence
-A set of small projects to familiarize with ai
+This repository is designed to explore and experiment with various Artificial Intelligence (AI) and Machine Learning (ML) concepts.
